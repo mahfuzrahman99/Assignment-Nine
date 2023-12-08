@@ -1,0 +1,66 @@
+[
+  {
+    "s_id": 1,
+    "s_name": "General Checkup",
+    "s_img": "https://i.ibb.co/NrcSVZJ/OIP.jpg",
+    "s_price": 100,
+    "s_features": "Physical examination, Blood pressure measurement, Basic blood tests",
+    "s_description": "A comprehensive general health checkup is essential for assessing your overall well-being and detecting any potential health issues. During a general checkup, a medical professional will conduct a thorough physical examination to evaluate your vital signs, including blood pressure measurement, and perform basic blood tests to check for common health markers.\n\nRegular general checkups are an integral part of preventive healthcare, allowing early detection of health conditions that may not exhibit symptoms. By undergoing routine checkups, you can take proactive steps to maintain good health and prevent the progression of any underlying medical problems.\n\nAt our healthcare facility, we prioritize your health and well-being. Our experienced medical team is dedicated to providing comprehensive general checkup services to ensure you stay on top of your health and make informed decisions about your lifestyle and healthcare needs."
+  },
+  {
+    "s_id": 2,
+    "s_name": "Dental Cleaning",
+    "s_img": "https://i.ibb.co/HTbqrC0/Dental-Cleaning.jpg",
+    "s_price": 80,
+    "s_features": "Professional teeth cleaning, Oral examination, Fluoride treatment (optional)",
+    "s_description": "Maintaining excellent oral hygiene is crucial for your overall health, and dental cleaning is a fundamental part of this process. Our dental cleaning service offers a thorough and professional approach to keeping your teeth and gums in top condition.\n\nDuring a dental cleaning session, our skilled dental professionals will conduct a detailed oral examination to check for any issues or concerns. They will then perform professional teeth cleaning, removing plaque and tartar buildup that can lead to various dental problems.\n\nAdditionally, we offer an optional fluoride treatment to strengthen your tooth enamel and provide extra protection against tooth decay.\n\nBy choosing our dental cleaning service, you can ensure that your smile remains bright, your gums stay healthy, and your overall oral health is well-maintained."
+  },
+  {
+    "s_id": 3,
+    "s_name": "Counseling Session",
+    "s_img": "https://i.ibb.co/pLZvNfj/counseling.jpg",
+    "s_price": 60,
+    "s_features": "One-on-one counseling, Mental health assessment, Coping strategies",
+    "s_description": "Mental health is an essential aspect of your overall well-being, and our counseling sessions are designed to provide the support and guidance you need to address your mental health concerns effectively. During a counseling session, you will have the opportunity to engage in one-on-one discussions with a qualified counselor who specializes in mental health.\n\nOur counselors conduct thorough mental health assessments to better understand your unique needs and challenges. They will work with you to develop coping strategies and provide guidance on managing stress, anxiety, depression, or any other mental health issues you may be facing.\n\nWe prioritize your mental and emotional health and are committed to helping you achieve a positive and balanced state of mind. Our counseling sessions offer a safe and confidential space for you to express yourself and work towards mental well-being."
+  },
+  {
+    "s_id": 4,
+    "s_name": "X-ray Examination",
+    "s_img": "https://i.ibb.co/mCyxpXb/hqdefault.jpg",
+    "s_price": 120,
+    "s_features": "X-ray imaging, Radiologist's interpretation, Digital reports",
+    "s_description": "Diagnostic accuracy is crucial in healthcare, and our X-ray examination service provides a reliable and advanced method for accurate medical assessments. X-ray imaging allows our medical professionals to visualize the internal structures of your body, aiding in the diagnosis of various medical conditions.\n\nDuring an X-ray examination, our experienced radiologists will perform the imaging procedure, capturing detailed images of the targeted area. These images are then interpreted by our radiologist, who provides precise and detailed reports of their findings.\n\nWith the help of digital technology, we ensure that the X-ray process is efficient and the results are readily available for further evaluation and treatment planning. Whether it's for bone fractures, lung conditions, or other medical issues, our X-ray examination service plays a crucial role in delivering accurate and timely diagnoses."
+  },
+  {
+    "s_id": 5,
+    "s_name": "Eye Examination",
+    "s_img": "https://i.ibb.co/42X3Fqh/medical-eye-examination.jpg",
+    "s_price": 65,
+    "s_features": "Vision testing, Eye health evaluation, Prescription for glasses (if needed)",
+    "s_description": "Maintaining good vision is essential for your daily life, and our comprehensive eye examination service is designed to ensure that your eyes are in optimal condition. Our eye examination covers a range of assessments to evaluate your vision and overall eye health.\n\nDuring the examination, we perform vision testing to determine the clarity of your vision. We also conduct an eye health evaluation to check for conditions such as cataracts, glaucoma, and macular degeneration. If needed, we can provide prescriptions for glasses to improve your vision.\n\nRegular eye examinations are essential for detecting and addressing vision problems early, allowing for timely intervention and maintaining the health of your eyes. Our dedicated team of eye care professionals is committed to helping you achieve and maintain clear and healthy vision."
+  },
+  {
+    "s_id": 6,
+    "s_name": "Physical Therapy",
+    "s_img": "https://i.ibb.co/fpq7vXh/Physical-Therapist-treating-Hip-Pain-in-Bethesda.jpg",
+    "s_price": 90,
+    "s_features": "Customized therapy plan, Exercise routines, Injury rehabilitation",
+    "s_description": "Physical therapy is a specialized healthcare service that focuses on enhancing mobility, reducing pain, and improving overall physical function. Our physical therapy service offers personalized treatment plans to help you recover from injuries and achieve better physical well-being.\n\nOur experienced physical therapists will work closely with you to develop a customized therapy plan tailored to your specific needs. This plan may include targeted exercise routines and techniques to address pain and discomfort. Whether you're recovering from surgery, managing a chronic condition, or seeking rehabilitation after an injury, our physical therapy service is designed to help you regain strength and mobility.\n\nWe are dedicated to assisting you in achieving your physical therapy goals, and our team is committed to providing you with the care and support you need to thrive."
+  },
+  {
+    "s_id": 7,
+    "s_name": "Vaccination",
+    "s_img": "https://i.ibb.co/C2NL54s/inside-the-vaccine-and-autism-scare.jpg",
+    "s_price": 50,
+    "s_features": "Vaccine administration, Immunization record",
+    "s_description": "Vaccinations are a critical aspect of preventive healthcare, offering protection against a range of preventable diseases. Our vaccination service provides safe and effective vaccine administration to ensure you and your loved ones stay protected.\n\nDuring a vaccination appointment, our healthcare professionals will administer the required vaccines following recommended schedules. We also maintain comprehensive immunization records for your convenience and to help you stay up-to-date on your vaccination status.\n\nProtecting yourself and your community from vaccine-preventable diseases is a responsible and essential step in maintaining public health. Our vaccination service is committed to providing you with access to essential vaccines to safeguard your well-being."
+  },
+  {
+    "s_id": 8,
+    "s_name": "Nutritional Consultation",
+    "s_img": "https://i.ibb.co/WxRmPc2/nutritionist-giving-consultation-patient-with-healthy-fruit-vegetable-right-nutrition-diet-44943-827.jpg",
+    "s_price": 75,
+    "s_features": "Dietary assessment, Personalized nutrition plan, Nutritionist's guidance",
+    "s_description": "Your diet plays a vital role in your overall health, and our nutritional consultation service is here to help you make informed dietary choices. Our experienced nutritionists offer dietary assessments, personalized nutrition plans, and expert guidance to improve your well-being.\n\nDuring a nutritional consultation, our nutritionists will assess your current diet and lifestyle to understand your unique nutritional needs. They will then create a personalized nutrition plan tailored to your goals, whether it's weight management, improved energy levels, or addressing specific dietary concerns. Our nutritionists provide ongoing guidance and support to help you make sustainable changes to your diet and achieve better health.\n\nInvesting in your nutritional health is an investment in your overall well-being. Let us help you make the right nutritional choices for a healthier and happier life."
+  }
+]

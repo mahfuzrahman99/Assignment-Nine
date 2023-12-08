@@ -1,0 +1,74 @@
+[
+  {
+    "h_id": 1,
+    "h_name": "City General Hospital",
+    "h_img": "https://example.com/city_general_hospital.jpg",
+    "h_details": "City General Hospital is a state-of-the-art medical facility, providing comprehensive healthcare services to the community.",
+    "h_phone_number": "+1234567890",
+    "h_email": "info@citygeneralhospital.com",
+    "h_address": "123 Main Street, Cityville, State"
+  },
+  {
+    "h_id": 2,
+    "h_name": "County Medical Center",
+    "h_img": "https://example.com/county_medical_center.jpg",
+    "h_details": "County Medical Center is a leading healthcare institution known for its advanced medical treatments and research.",
+    "h_phone_number": "+9876543210",
+    "h_email": "contact@countymedicalcenter.org",
+    "h_address": "456 Elm Street, Townsville, State"
+  },
+  {
+    "h_id": 3,
+    "h_name": "Sunrise Hospital and Medical Center",
+    "h_img": "https://example.com/sunrise_hospital.jpg",
+    "h_details": "Sunrise Hospital is dedicated to providing compassionate care and innovative medical services to our patients.",
+    "h_phone_number": "+1112223333",
+    "h_email": "info@sunrisehospital.com",
+    "h_address": "789 Oak Avenue, Villagetown, State"
+  },
+  {
+    "h_id": 4,
+    "h_name": "Hillside Medical Center",
+    "h_img": "https://example.com/hillside_medical_center.jpg",
+    "h_details": "Hillside Medical Center offers a wide range of medical specialties and a commitment to patient well-being.",
+    "h_phone_number": "+4445556666",
+    "h_email": "contact@hillsidemedicalcenter.org",
+    "h_address": "101 Pine Road, Hillside, State"
+  },
+  {
+    "h_id": 5,
+    "h_name": "Lakeside Hospital",
+    "h_img": "https://example.com/lakeside_hospital.jpg",
+    "h_details": "Lakeside Hospital provides quality healthcare services with a focus on patient comfort and satisfaction.",
+    "h_phone_number": "+7778889999",
+    "h_email": "info@lakesidehospital.com",
+    "h_address": "222 Cedar Lane, Lakeside, State"
+  },
+  {
+    "h_id": 6,
+    "h_name": "Riverside Medical Center",
+    "h_img": "https://example.com/riverside_medical_center.jpg",
+    "h_details": "Riverside Medical Center is committed to promoting health and wellness within the community.",
+    "h_phone_number": "+6667778888",
+    "h_email": "contact@riversidemedicalcenter.org",
+    "h_address": "333 Redwood Drive, Riverside, State"
+  },
+  {
+    "h_id": 7,
+    "h_name": "Hilltop Community Hospital",
+    "h_img": "https://example.com/hilltop_community_hospital.jpg",
+    "h_details": "Hilltop Community Hospital is your trusted healthcare partner, providing care for all ages.",
+    "h_phone_number": "+3334445555",
+    "h_email": "info@hilltophospital.org",
+    "h_address": "444 Willow Street, Hilltop, State"
+  },
+  {
+    "h_id": 8,
+    "h_name": "Mountainside Medical Center",
+    "h_img": "https://example.com/mountainside_medical_center.jpg",
+    "h_details": "Mountainside Medical Center is dedicated to improving the health and well-being of our community.",
+    "h_phone_number": "+2223334444",
+    "h_email": "contact@mountainsidemedicalcenter.org",
+    "h_address": "555 Birch Avenue, Mountainside, State"
+  }
+]
