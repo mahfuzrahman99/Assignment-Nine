@@ -1,7 +1,9 @@
 # Website Name: Assignment Nine
 
-## Live Link
+## Live Link Surge
 - **Live Link:** [Assignment Nine](https://assignment-nine-mahfuz-99.surge.sh/)
+## Live Link Firebase
+- **Live Link:** [Assignment Nine](https://assignment-nine-abe43.web.app/)
 
 ## Overview
 - This is a brief overview of Our website, its purpose, and the features it offers.
